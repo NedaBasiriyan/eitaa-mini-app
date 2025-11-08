@@ -1,0 +1,25 @@
+body {
+    font-family: Tahoma, sans-serif;
+    direction: rtl;
+    text-align: center;
+    padding: 20px;
+    background-color: #e0f7fa;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #00bcd4;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0097a7;
+}
+
+#joinMessage {
+    margin-top: 50px;
+}
